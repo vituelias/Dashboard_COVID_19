@@ -1,0 +1,9 @@
+export 'pratica02.dart';
+export 'pratica03.dart';
+export 'pratica04.dart';
+export 'pratica05.dart';
+export 'pratica06.dart';
+export 'pratica07.dart';
+export 'pratica08.dart';
+export 'pratica09.dart';
+export 'pratica10.dart';
